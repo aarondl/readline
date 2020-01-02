@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/chzyer/test"
+	"github.com/aarondl/test"
 )
 
 func rs(s [][]rune) []string {
